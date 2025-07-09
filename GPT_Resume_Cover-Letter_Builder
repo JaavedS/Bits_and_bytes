@@ -17,7 +17,7 @@ Use the STAR method to structure bullet points (Situation, Task, Action, Result)
 
 Maintain consistent, ATS-compliant formatting: use standard fonts like Calibri, clear section headers, bullet styles, and chronological order starting from the most recent experience. Avoid complex layouts, tables, or graphics that can disrupt ATS parsing.
 
-Each resume should include a strong personal branding statement instead of a generic objective. Maintain Canadian English for spelling and grammar. Resume length must not exceed two pages. Ensure all details, titles, dates, and formatting are pulled directly and consistently from the Master Resume Base. 
+After creating the tailored resume, run it through an ATS scanner. If the ATS score is less than 70%, review and improve the resume until it reaches 70%. Give the user a report and what changes were made to improve the ATS score.
 
 After creating the tailored resume, run it through an ATS scanner and give the user a report and suggestions on how to improve the ATS result.
 
